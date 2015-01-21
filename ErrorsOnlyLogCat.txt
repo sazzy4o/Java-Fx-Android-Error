@@ -1,0 +1,30 @@
+01-21 11:58:15.913: E/art(1150): dlopen("/vendor/lib/libprism_es2_eglfb.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libprism_es2_eglfb.so" not found
+01-21 11:58:15.925: E/art(1150): dlopen("/system/lib/libprism_es2_eglfb.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libprism_es2_eglfb.so" not found
+01-21 11:58:15.976: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0x0 and nativeWindow = 0x0
+01-21 11:58:15.989: E/javafx(1150): [JVDBG] PRISMNATIVE window = 0xaf117d08
+01-21 11:58:16.007: E/javafx(1150): [JVDBG] PRISMNATIVE sharedwindowSurface = 0xa7efc7e0
+01-21 11:58:16.244: E/art(1150): dlopen("/vendor/lib/libglass_monocle.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libglass_monocle.so" not found
+01-21 11:58:16.245: E/art(1150): dlopen("/system/lib/libglass_monocle.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libglass_monocle.so" not found
+01-21 11:58:16.586: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x0
+01-21 11:58:16.603: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x0
+01-21 11:58:25.373: E/art(1150): dlopen("/vendor/lib/libjavafx_font.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libjavafx_font.so" not found
+01-21 11:58:25.378: E/art(1150): dlopen("/system/lib/libjavafx_font.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libjavafx_font.so" not found
+01-21 11:58:25.440: E/art(1150): dlopen("/vendor/lib/libjavafx_font_freetype.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libjavafx_font_freetype.so" not found
+01-21 11:58:25.442: E/art(1150): dlopen("/system/lib/libjavafx_font_freetype.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libjavafx_font_freetype.so" not found
+01-21 11:58:31.344: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x1
+01-21 11:58:32.677: E/javafx(1150): in nCreateProgram1
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram2
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram3
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram4
+01-21 11:58:32.684: E/javafx(1150): in nCreateProgram5
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram6
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram7
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram9
+01-21 11:58:32.837: E/javafx(1150): in nCreateProgram1
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram2
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram3
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram4
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram5
+01-21 11:58:32.843: E/javafx(1150): in nCreateProgram6
+01-21 11:58:32.854: E/javafx(1150): in nCreateProgram7
+01-21 11:58:32.854: E/javafx(1150): in nCreateProgram9

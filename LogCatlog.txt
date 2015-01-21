@@ -1,0 +1,366 @@
+01-21 11:58:08.301: V/FXActivity native(1150): Loading library
+01-21 11:58:08.374: V/FXActivity(1150): onCreate called, using 8u40b1
+01-21 11:58:08.426: V/FXActivity native(1150): Notification queue instance created.
+01-21 11:58:08.427: V/FXActivity native(1150): Notification queue started
+01-21 11:58:08.688: V/FXActivity(1150): extracting secondary dex files from 'Application_dex.jar' from asset resource to storage location
+01-21 11:58:11.256: V/FXActivity(1150): copy secondary resource file 'Application_resources.jar' from asset resource to storage location
+01-21 11:58:11.376: I/art(1150): Background sticky concurrent mark sweep GC freed 1885(202KB) AllocSpace objects, 3(48KB) LOS objects, 56% free, 270KB/623KB, paused 1.427ms total 110.189ms
+01-21 11:58:13.802: D/FXActivity(1150): writing /data/data/org.javafxports.ensemble8/app_dex/classloader.properties
+01-21 11:58:13.892: V/FXActivity(1150): Secondary dex file classpath /data/data/org.javafxports.ensemble8/app_dex/classes.dex:/data/data/org.javafxports.ensemble8/app_dex/classes2.dex:/data/data/org.javafxports.ensemble8/app_dex/Application_resources.jar
+01-21 11:58:14.069: V/FXActivity(1150): Confiuration orientation: PORTRAIT
+01-21 11:58:14.071: V/FXActivity native(1150): appDataDir: /data/data/org.javafxports.ensemble8
+01-21 11:58:14.107: V/FXActivity(1150): onStart
+01-21 11:58:14.108: V/FXActivity(1150): onResume
+01-21 11:58:14.296: I/System.out(1150): [JVDBG] GLOBALLAYOUT changed!
+01-21 11:58:14.296: I/System.out(1150): [JVDBG] myview height = 508
+01-21 11:58:14.296: I/System.out(1150): [JVDBG] myviewroot height = 533
+01-21 11:58:14.377: V/FXEntity(1150): Surface created.
+01-21 11:58:14.391: V/FXActivity native(1150): [JVDBG] SURFACE created native android window at 0xaf117d08
+01-21 11:58:14.425: I/art(1150): Rejecting re-init on previously-failed class java.lang.Class<javafxports.android.DalvikLauncher$2>
+01-21 11:58:14.431: I/art(1150): Rejecting re-init on previously-failed class java.lang.Class<javafxports.android.DalvikLauncher$2>
+01-21 11:58:14.454: I/System.out(1150): javax.xml.stream.XMLEventFactory=com.sun.xml.stream.events.ZephyrEvent...
+01-21 11:58:14.455: I/System.out(1150): prism.text=native
+01-21 11:58:14.455: I/System.out(1150): java.vendor.url=http://www.android.com/
+01-21 11:58:14.455: I/System.out(1150): java.ext.dirs=
+01-21 11:58:14.455: I/System.out(1150): line.separator=
+01-21 11:58:14.456: I/System.out(1150): file.encoding=UTF-8
+01-21 11:58:14.456: I/System.out(1150): java.runtime.version=0.9
+01-21 11:58:14.456: I/System.out(1150): prism.dirtyopts=true
+01-21 11:58:14.456: I/System.out(1150): user.name=root
+01-21 11:58:14.456: I/System.out(1150): java.compiler=
+01-21 11:58:14.456: I/System.out(1150): android.icu.unicode.version=6.3
+01-21 11:58:14.456: I/System.out(1150): javax.xml.stream.XMLOutputFactory=com.sun.xml.stream.ZephyrWriterFactory
+01-21 11:58:14.456: I/System.out(1150): prism.debugfonts=true
+01-21 11:58:14.457: I/System.out(1150): com.sun.javafx.gestures.rotate=true
+01-21 11:58:14.457: I/System.out(1150): java.version=0
+01-21 11:58:14.457: I/System.out(1150): android.icu.library.version=53.1.0.1
+01-21 11:58:14.457: I/System.out(1150): use.egl=true
+01-21 11:58:14.457: I/System.out(1150): embedded=eglfb
+01-21 11:58:14.457: I/System.out(1150): com.sun.javafx.gestures.scroll=true
+01-21 11:58:14.457: I/System.out(1150): prism.lcdtext=false
+01-21 11:58:14.457: I/System.out(1150): os.arch=armv7l
+01-21 11:58:14.458: I/System.out(1150): java.io.tmpdir=/data/data/org.javafxports.ensemble8/...
+01-21 11:58:14.458: I/System.out(1150): glass.platform=Monocle
+01-21 11:58:14.458: I/System.out(1150): android.zlib.version=1.2.8
+01-21 11:58:14.458: I/System.out(1150): user.language=en
+01-21 11:58:14.458: I/System.out(1150): java.vm.version=2.1.0
+01-21 11:58:14.458: I/System.out(1150): com.sun.javafx.isEmbedded=true
+01-21 11:58:14.458: I/System.out(1150): javax.xml.stream.XMLInputFactory=com.sun.xml.stream.ZephyrParserFactory
+01-21 11:58:14.458: I/System.out(1150): prism.glDepthSize=16
+01-21 11:58:14.459: I/System.out(1150): path.separator=:
+01-21 11:58:14.459: I/System.out(1150): java.runtime.name=Android Runtime
+01-21 11:58:14.459: I/System.out(1150): java.specification.version=0.9
+01-21 11:58:14.459: I/System.out(1150): user.dir=/
+01-21 11:58:14.459: I/System.out(1150): prism.maxTextureSize=2048
+01-21 11:58:14.459: I/System.out(1150): java.vm.specification.vendor=The Android Project
+01-21 11:58:14.459: I/System.out(1150): com.sun.javafx.gestures.zoom=true
+01-21 11:58:14.459: I/System.out(1150): java.vm.name=Dalvik
+01-21 11:58:14.460: I/System.out(1150): log.lens=FINEST
+01-21 11:58:14.460: I/System.out(1150): java.vm.specification.version=0.9
+01-21 11:58:14.460: I/System.out(1150): user.home=
+01-21 11:58:14.460: I/System.out(1150): java.specification.name=Dalvik Core Library
+01-21 11:58:14.460: I/System.out(1150): file.separator=/
+01-21 11:58:14.460: I/System.out(1150): java.library.path=/vendor/lib:/system/lib
+01-21 11:58:14.461: I/System.out(1150): os.version=3.4.67-01413-g9ac497f
+01-21 11:58:14.461: I/System.out(1150): java.boot.class.path=/system/framework/core-libart.jar:/sy...
+01-21 11:58:14.461: I/System.out(1150): DALVIK.prism.verbose=true
+01-21 11:58:14.461: I/System.out(1150): java.vm.specification.name=Dalvik Virtual Machine Specification
+01-21 11:58:14.461: I/System.out(1150): javafx.platform=android
+01-21 11:58:14.461: I/System.out(1150): glass.lens=eglfb
+01-21 11:58:14.462: I/System.out(1150): user.region=US
+01-21 11:58:14.462: I/System.out(1150): os.name=Linux
+01-21 11:58:14.462: I/System.out(1150): java.class.path=.
+01-21 11:58:14.462: I/System.out(1150): prism.verbose=true
+01-21 11:58:14.462: I/System.out(1150): prism.vsync=false
+01-21 11:58:14.462: I/System.out(1150): java.specification.vendor=The Android Project
+01-21 11:58:14.462: I/System.out(1150): java.vm.vendor=The Android Project
+01-21 11:58:14.463: I/System.out(1150): prism.allowhidpi=false
+01-21 11:58:14.463: I/System.out(1150): java.vendor=The Android Project
+01-21 11:58:14.463: I/System.out(1150): http.agent=Dalvik/2.1.0 (Linux; U; Android 5.0; ...
+01-21 11:58:14.463: I/System.out(1150): android.icu.cldr.version=25.0
+01-21 11:58:14.463: I/System.out(1150): android.openssl.version=OpenSSL 1.0.1h 5 Jun 2014
+01-21 11:58:14.463: I/System.out(1150): java.home=/system
+01-21 11:58:14.497: I/System.out(1150): java.vm.vendor.url=http://www.android.com/
+01-21 11:58:14.500: I/System.out(1150): java.class.version=50.0
+01-21 11:58:14.523: V/DalvikLauncher(1150): Launch JavaFX application on DALVIK vm.
+01-21 11:58:14.597: V/DalvikLauncher(1150): Application classloader initialized: dalvik.system.DexClassLoader[DexPathList[[dex file "dalvik.system.DexFile@be6b32", dex file "dalvik.system.DexFile@30691083", zip file "/data/data/org.javafxports.ensemble8/app_dex/Application_resources.jar"],nativeLibraryDirectories=[/data/app/org.javafxports.ensemble8-2/lib/arm, /vendor/lib, /system/lib]]]
+01-21 11:58:14.629: I/System.out(1150): Set monocle init to public static void com.sun.glass.ui.monocle.AndroidInputDeviceRegistry.registerDevice()
+01-21 11:58:14.647: I/art(1150): Rejecting re-init on previously-failed class java.lang.Class<javafxports.android.DalvikLauncher$2>
+01-21 11:58:14.648: V/DalvikLauncher(1150): No JavaFX on our current (base) classpath, don't register exit listener
+01-21 11:58:14.648: W/System.err(1150): java.lang.NoClassDefFoundError: javafxports.android.DalvikLauncher$2
+01-21 11:58:14.659: W/System.err(1150): 	at javafxports.android.DalvikLauncher.registerExitListener(DalvikLauncher.java:196)
+01-21 11:58:14.659: W/System.err(1150): 	at javafxports.android.DalvikLauncher.initMethodHandles(DalvikLauncher.java:186)
+01-21 11:58:14.659: W/System.err(1150): 	at javafxports.android.DalvikLauncher.launchApp(DalvikLauncher.java:99)
+01-21 11:58:14.659: W/System.err(1150): 	at javafxports.android.FXDalvikEntity.getLauncherAndLaunchApplication(FXDalvikEntity.java:122)
+01-21 11:58:14.659: W/System.err(1150): 	at javafxports.android.FXDalvikEntity.surfaceCreated(FXDalvikEntity.java:152)
+01-21 11:58:14.659: W/System.err(1150): 	at android.view.SurfaceView.updateWindow(SurfaceView.java:579)
+01-21 11:58:14.660: W/System.err(1150): 	at android.view.SurfaceView$3.onPreDraw(SurfaceView.java:176)
+01-21 11:58:14.660: W/System.err(1150): 	at android.view.ViewTreeObserver.dispatchOnPreDraw(ViewTreeObserver.java:847)
+01-21 11:58:14.660: W/System.err(1150): 	at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1956)
+01-21 11:58:14.660: W/System.err(1150): 	at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1054)
+01-21 11:58:14.660: W/System.err(1150): 	at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5779)
+01-21 11:58:14.661: W/System.err(1150): 	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:767)
+01-21 11:58:14.661: W/System.err(1150): 	at android.view.Choreographer.doCallbacks(Choreographer.java:580)
+01-21 11:58:14.661: W/System.err(1150): 	at android.view.Choreographer.doFrame(Choreographer.java:550)
+01-21 11:58:14.661: W/System.err(1150): 	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:753)
+01-21 11:58:14.661: W/System.err(1150): 	at android.os.Handler.handleCallback(Handler.java:739)
+01-21 11:58:14.662: W/System.err(1150): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+01-21 11:58:14.662: W/System.err(1150): 	at android.os.Looper.loop(Looper.java:135)
+01-21 11:58:14.662: W/System.err(1150): 	at android.app.ActivityThread.main(ActivityThread.java:5221)
+01-21 11:58:14.662: W/System.err(1150): 	at java.lang.reflect.Method.invoke(Native Method)
+01-21 11:58:14.662: W/System.err(1150): 	at java.lang.reflect.Method.invoke(Method.java:372)
+01-21 11:58:14.662: W/System.err(1150): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:899)
+01-21 11:58:14.663: W/System.err(1150): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:694)
+01-21 11:58:14.717: V/DalvikLauncher(1150): application class: [class ensemble.EnsembleApp]
+01-21 11:58:14.717: V/DalvikLauncher(1150): preloader class: [null]
+01-21 11:58:14.717: V/DalvikLauncher(1150): javafx application class: [class javafx.application.Application]
+01-21 11:58:14.717: V/DalvikLauncher(1150): javafx launcher class: [class com.sun.javafx.application.LauncherImpl]
+01-21 11:58:14.717: V/DalvikLauncher(1150): launch application method: [public static void com.sun.javafx.application.LauncherImpl.launchApplication(java.lang.Class,java.lang.Class,java.lang.String[])]
+01-21 11:58:14.719: V/FXEntity(1150): Called Surface changed [320, 508]
+01-21 11:58:14.720: V/FXActivity native(1150): [JVDBG] SURFACE created native android window at 0xaf117d08
+01-21 11:58:14.720: V/FXEntity(1150): Called Surface redraw needed
+01-21 11:58:14.741: I/Choreographer(1150): Skipped 33 frames!  The application may be doing too much work on its main thread.
+01-21 11:58:14.846: I/art(1150): Background partial concurrent mark sweep GC freed 1886(242KB) AllocSpace objects, 1(16KB) LOS objects, 36% free, 888KB/1400KB, paused 4.151ms total 207.008ms
+01-21 11:58:14.885: V/FXEntity(1150): Called Surface redraw needed
+01-21 11:58:14.921: D/(1150): HostConnection::get() New Host Connection established 0xb51f7650, tid 1150
+01-21 11:58:15.168: W/art(1150): Verification of void com.sun.javafx.application.LauncherImpl.launchApplication1(java.lang.Class, java.lang.Class, java.lang.String[]) took 102.703ms
+01-21 11:58:15.280: I/System.out(1150): [JVDBG] GLOBALLAYOUT changed!
+01-21 11:58:15.280: I/System.out(1150): [JVDBG] myview height = 508
+01-21 11:58:15.280: I/System.out(1150): [JVDBG] myviewroot height = 533
+01-21 11:58:15.818: I/System.out(1150): Prism pipeline init order: es2 
+01-21 11:58:15.818: I/System.out(1150): Using platform text rasterizer
+01-21 11:58:15.819: I/System.out(1150): Using native-based Pisces rasterizer
+01-21 11:58:15.819: I/System.out(1150): Using dirty region optimizations
+01-21 11:58:15.819: I/System.out(1150): Using system sized mask for primitives
+01-21 11:58:15.824: I/System.out(1150): Not forcing power of 2 sizes for textures
+01-21 11:58:15.824: I/System.out(1150): Using hardware CLAMP_TO_ZERO mode
+01-21 11:58:15.824: I/System.out(1150): Not opting in for HiDPI pixel scaling
+01-21 11:58:15.865: I/System.out(1150): Prism pipeline name = com.sun.prism.es2.ES2Pipeline
+01-21 11:58:15.880: I/System.out(1150): Loading ES2 native library ... prism_es2_eglfb
+01-21 11:58:15.913: E/art(1150): dlopen("/vendor/lib/libprism_es2_eglfb.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libprism_es2_eglfb.so" not found
+01-21 11:58:15.925: E/art(1150): dlopen("/system/lib/libprism_es2_eglfb.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libprism_es2_eglfb.so" not found
+01-21 11:58:15.946: I/System.out(1150): 	succeeded.
+01-21 11:58:15.948: I/System.out(1150): GLFactory using com.sun.prism.es2.EGLFBGLFactory
+01-21 11:58:15.963: D/(1150): HostConnection::get() New Host Connection established 0xa5b89ee0, tid 1188
+01-21 11:58:15.976: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0x0 and nativeWindow = 0x0
+01-21 11:58:15.976: I/javafx(1150): Using libactivity.so
+01-21 11:58:15.989: E/javafx(1150): [JVDBG] PRISMNATIVE window = 0xaf117d08
+01-21 11:58:16.007: E/javafx(1150): [JVDBG] PRISMNATIVE sharedwindowSurface = 0xa7efc7e0
+01-21 11:58:16.091: I/System.out(1150): (X) Got class = class com.sun.prism.es2.ES2Pipeline
+01-21 11:58:16.100: I/System.out(1150): Initialized prism pipeline: com.sun.prism.es2.ES2Pipeline
+01-21 11:58:16.180: I/System.out(1150): traceConfig: Trying platform MX6 with class com.sun.glass.ui.monocle.MX6PlatformFactory
+01-21 11:58:16.183: I/System.out(1150): traceConfig: Trying platform OMAP with class com.sun.glass.ui.monocle.OMAPPlatformFactory
+01-21 11:58:16.196: I/System.out(1150): traceConfig: Trying platform Dispman with class com.sun.glass.ui.monocle.DispmanPlatformFactory
+01-21 11:58:16.199: I/System.out(1150): traceConfig: Trying platform Android with class com.sun.glass.ui.monocle.AndroidPlatformFactory
+01-21 11:58:16.244: E/art(1150): dlopen("/vendor/lib/libglass_monocle.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libglass_monocle.so" not found
+01-21 11:58:16.245: E/art(1150): dlopen("/system/lib/libglass_monocle.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libglass_monocle.so" not found
+01-21 11:58:16.256: I/System.out(1150): traceConfig: Matched Android
+01-21 11:58:16.348: I/System.out(1150): [JVDBG] created screen, screen = com.sun.glass.ui.monocle.AndroidScreen@6bb5e2c
+01-21 11:58:16.351: I/GLASS(1150): Binding to libactivity.so
+01-21 11:58:16.354: V/FXEntity(1150): notify_glassHasStarted called in FXActivity. register device now.
+01-21 11:58:16.402: I/System.out(1150): traceEvent: Set MouseState[x=160,y=254,wheel=0,buttonsPressed=IntSet[]]
+01-21 11:58:16.418: I/art(1150): Background sticky concurrent mark sweep GC freed 1016(125KB) AllocSpace objects, 0(0B) LOS objects, 6% free, 1861KB/1998KB, paused 5.715ms total 82.142ms
+01-21 11:58:16.422: I/art(1150): WaitForGcToComplete blocked for 48.654ms for cause HeapTrim
+01-21 11:58:16.475: I/art(1150): Background sticky concurrent mark sweep GC freed 418(50KB) AllocSpace objects, 0(0B) LOS objects, 6% free, 1872KB/1998KB, paused 7.057ms total 43.601ms
+01-21 11:58:16.578: I/art(1150): Background partial concurrent mark sweep GC freed 832(118KB) AllocSpace objects, 0(0B) LOS objects, 24% free, 2MB/3MB, paused 6.074ms total 97.131ms
+01-21 11:58:16.586: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x0
+01-21 11:58:16.586: I/javafx(1150): Using libactivity.so
+01-21 11:58:16.603: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x0
+01-21 11:58:16.603: I/javafx(1150): Using libactivity.so
+01-21 11:58:16.651: I/System.out(1150): Maximum supported texture size: 16384
+01-21 11:58:16.652: I/System.out(1150): Maximum texture size clamped to 2048
+01-21 11:58:16.652: I/System.out(1150): Non power of two texture support = false
+01-21 11:58:16.653: I/System.out(1150): Maximum number of vertex attributes = 16
+01-21 11:58:16.658: I/System.out(1150): Maximum number of uniform vertex components = 4096
+01-21 11:58:16.659: I/System.out(1150): Maximum number of uniform fragment components = 4096
+01-21 11:58:16.659: I/System.out(1150): Maximum number of varying components = 64
+01-21 11:58:16.660: I/System.out(1150): Maximum number of texture units usable in a vertex shader = 32
+01-21 11:58:16.661: I/System.out(1150): Maximum number of texture units usable in a fragment shader = 32
+01-21 11:58:16.661: I/System.out(1150): Graphics Vendor: Google (Intel)
+01-21 11:58:16.661: I/System.out(1150):        Renderer: Android Emulator OpenGL ES Translator (Intel(R) HD Graphics 4400)
+01-21 11:58:16.669: I/System.out(1150):         Version: OpenGL ES 2.0 (4.2.0 - Build 10.18.10.3383)
+01-21 11:58:16.779: I/System.out(1150): register device done
+01-21 11:58:16.810: W/System.err(1150):  vsync: false vpipe: true
+01-21 11:58:16.813: I/System.out(1150): [MON] Create device
+01-21 11:58:16.880: I/System.out(1150): [MON] Create device done, add done
+01-21 11:58:17.069: W/art(1150): Verification of void ensemble.EnsembleApp.<init>() took 182.038ms
+01-21 11:58:17.448: I/art(1150): Background sticky concurrent mark sweep GC freed 1976(254KB) AllocSpace objects, 0(0B) LOS objects, 7% free, 2MB/3MB, paused 6.084ms total 136.655ms
+01-21 11:58:17.686: I/art(1150): Background sticky concurrent mark sweep GC freed 1044(131KB) AllocSpace objects, 0(0B) LOS objects, 5% free, 2MB/3MB, paused 7.590ms total 46.847ms
+01-21 11:58:17.885: W/art(1150): Suspending all threads took: 6.983ms
+01-21 11:58:17.918: I/art(1150): Background partial concurrent mark sweep GC freed 3053(202KB) AllocSpace objects, 0(0B) LOS objects, 25% free, 3MB/4MB, paused 9.481ms total 139.646ms
+01-21 11:58:18.404: I/art(1150): Background sticky concurrent mark sweep GC freed 4440(196KB) AllocSpace objects, 0(0B) LOS objects, 0% free, 4MB/4MB, paused 7.550ms total 225.290ms
+01-21 11:58:18.582: I/art(1150): Background partial concurrent mark sweep GC freed 2119(222KB) AllocSpace objects, 3(280KB) LOS objects, 24% free, 4MB/5MB, paused 1.456ms total 171.241ms
+01-21 11:58:19.263: I/art(1150): Background sticky concurrent mark sweep GC freed 9249(1130KB) AllocSpace objects, 2(32KB) LOS objects, 19% free, 4MB/5MB, paused 7.521ms total 108.826ms
+01-21 11:58:20.421: I/art(1150): Background partial concurrent mark sweep GC freed 507(68KB) AllocSpace objects, 0(0B) LOS objects, 25% free, 5MB/7MB, paused 1.404ms total 159.505ms
+01-21 11:58:21.472: I/art(1150): Background partial concurrent mark sweep GC freed 698(99KB) AllocSpace objects, 16(1712KB) LOS objects, 24% free, 6MB/8MB, paused 3.279ms total 180.785ms
+01-21 11:58:22.511: I/art(1150): Background partial concurrent mark sweep GC freed 730(74KB) AllocSpace objects, 24(2MB) LOS objects, 24% free, 6MB/8MB, paused 1.301ms total 154.184ms
+01-21 11:58:23.673: I/art(1150): Background partial concurrent mark sweep GC freed 691(98KB) AllocSpace objects, 16(1865KB) LOS objects, 23% free, 6MB/8MB, paused 1.265ms total 166.452ms
+01-21 11:58:24.696: I/art(1150): Background partial concurrent mark sweep GC freed 657(82KB) AllocSpace objects, 17(2MB) LOS objects, 24% free, 6MB/8MB, paused 1.737ms total 179.585ms
+01-21 11:58:25.373: E/art(1150): dlopen("/vendor/lib/libjavafx_font.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libjavafx_font.so" not found
+01-21 11:58:25.378: E/art(1150): dlopen("/system/lib/libjavafx_font.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libjavafx_font.so" not found
+01-21 11:58:25.397: W/System.err(1150): Loading FontFactory com.sun.javafx.font.freetype.FTFactory
+01-21 11:58:25.397: W/System.err(1150): Subpixel: enabled
+01-21 11:58:25.440: E/art(1150): dlopen("/vendor/lib/libjavafx_font_freetype.so", RTLD_LAZY) failed: dlopen failed: library "/vendor/lib/libjavafx_font_freetype.so" not found
+01-21 11:58:25.442: E/art(1150): dlopen("/system/lib/libjavafx_font_freetype.so", RTLD_LAZY) failed: dlopen failed: library "/system/lib/libjavafx_font_freetype.so" not found
+01-21 11:58:25.478: W/System.err(1150): Freetype2 Loaded (version 2.5.0)
+01-21 11:58:25.479: W/System.err(1150): LCD support Enabled
+01-21 11:58:25.694: I/art(1150): Background sticky concurrent mark sweep GC freed 10395(1304KB) AllocSpace objects, 0(0B) LOS objects, 13% free, 7MB/8MB, paused 8.056ms total 118.222ms
+01-21 11:58:25.937: W/art(1150): Before Android 4.1, method void com.sun.javafx.scene.transform.TransformUtils$ImmutableTransform.ensureCanTransform2DPoint() would have incorrectly overridden the package-private method in javafx.scene.transform.Transform
+01-21 11:58:26.142: I/art(1150): Background sticky concurrent mark sweep GC freed 10588(847KB) AllocSpace objects, 0(0B) LOS objects, 11% free, 7MB/8MB, paused 89.760ms total 184.402ms
+01-21 11:58:26.676: I/art(1150): Background partial concurrent mark sweep GC freed 7753(811KB) AllocSpace objects, 5(337KB) LOS objects, 21% free, 7MB/9MB, paused 6.767ms total 327.638ms
+01-21 11:58:26.680: I/art(1150): WaitForGcToComplete blocked for 208.309ms for cause HeapTrim
+01-21 11:58:27.037: W/art(1150): Before Android 4.1, method double javafx.scene.text.TextFlow.computeChildPrefAreaHeight(javafx.scene.Node, javafx.geometry.Insets) would have incorrectly overridden the package-private method in javafx.scene.layout.Region
+01-21 11:58:27.038: W/art(1150): Before Android 4.1, method double javafx.scene.text.TextFlow.computeChildPrefAreaWidth(javafx.scene.Node, javafx.geometry.Insets) would have incorrectly overridden the package-private method in javafx.scene.layout.Region
+01-21 11:58:27.456: I/art(1150): Background sticky concurrent mark sweep GC freed 14855(1276KB) AllocSpace objects, 2(32KB) LOS objects, 16% free, 7MB/9MB, paused 6.390ms total 112.131ms
+01-21 11:58:29.154: I/art(1150): Background sticky concurrent mark sweep GC freed 9618(864KB) AllocSpace objects, 0(0B) LOS objects, 9% free, 8MB/9MB, paused 7.513ms total 109.642ms
+01-21 11:58:29.551: I/art(1150): Background sticky concurrent mark sweep GC freed 4978(592KB) AllocSpace objects, 0(0B) LOS objects, 7% free, 8MB/9MB, paused 7.875ms total 69.864ms
+01-21 11:58:30.368: I/art(1150): Background partial concurrent mark sweep GC freed 6893(462KB) AllocSpace objects, 5(581KB) LOS objects, 19% free, 8MB/10MB, paused 2.030ms total 305.127ms
+01-21 11:58:31.058: I/System.out(1150): [JVDBG] MonocleWindow, resize and move, width = 320, h = 508, x = 0, y = 0
+01-21 11:58:31.162: I/art(1150): Background sticky concurrent mark sweep GC freed 8882(531KB) AllocSpace objects, 0(0B) LOS objects, 9% free, 9MB/10MB, paused 8.818ms total 83.641ms
+01-21 11:58:31.344: E/javafx(1150): [JVDBG] PRISMNATIVE getsharedws, sharedws = 0xa7efc7e0 and nativeWindow = 0x1
+01-21 11:58:31.345: I/javafx(1150): Using libactivity.so
+01-21 11:58:31.831: W/System.err(1150): Temp file created: /data/data/org.javafxports.ensemble8/cache/+JXF996208375.tmp
+01-21 11:58:31.859: I/System.out(1150): max rectangle texture cell size = 62
+01-21 11:58:32.027: W/System.err(1150): Temp file created: /data/data/org.javafxports.ensemble8/cache/+JXF-1202233368.tmp
+01-21 11:58:32.126: I/art(1150): Background partial concurrent mark sweep GC freed 4705(288KB) AllocSpace objects, 0(0B) LOS objects, 10% free, 17MB/19MB, paused 2.318ms total 448.982ms
+01-21 11:58:32.199: W/System.err(1150): Temp file created: /data/data/org.javafxports.ensemble8/cache/+JXF-1090417964.tmp
+01-21 11:58:32.347: W/System.err(1150): Temp file created: /data/data/org.javafxports.ensemble8/cache/+JXF-39336818.tmp
+01-21 11:58:32.596: I/System.out(1150): wrap rectangle texture = 2 x 2
+01-21 11:58:32.622: I/System.out(1150): ES2ResourceFactory: Prism - createStockShader: AlphaTexture_Color.frag
+01-21 11:58:32.677: E/javafx(1150): in nCreateProgram1
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram2
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram3
+01-21 11:58:32.678: E/javafx(1150): in nCreateProgram4
+01-21 11:58:32.684: E/javafx(1150): in nCreateProgram5
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram6
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram7
+01-21 11:58:32.689: E/javafx(1150): in nCreateProgram9
+01-21 11:58:32.822: I/System.out(1150): ES2ResourceFactory: Prism - createStockShader: Texture_Color.frag
+01-21 11:58:32.837: E/javafx(1150): in nCreateProgram1
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram2
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram3
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram4
+01-21 11:58:32.838: E/javafx(1150): in nCreateProgram5
+01-21 11:58:32.843: E/javafx(1150): in nCreateProgram6
+01-21 11:58:32.854: E/javafx(1150): in nCreateProgram7
+01-21 11:58:32.854: E/javafx(1150): in nCreateProgram9
+01-21 11:58:32.954: W/System.err(1150): java.lang.UnsupportedOperationException: Pixel format BYTE_BGRA_PRE not supported on this device
+01-21 11:58:32.980: W/System.err(1150): 	at com.sun.prism.es2.ES2Texture.create(ES2Texture.java:102)
+01-21 11:58:32.980: W/System.err(1150): 	at com.sun.prism.es2.ES2ResourceFactory.createTexture(ES2ResourceFactory.java:132)
+01-21 11:58:32.980: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.createTexture(BaseResourceFactory.java:231)
+01-21 11:58:32.980: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.getCachedTexture(BaseResourceFactory.java:207)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.getCachedTexture(BaseResourceFactory.java:141)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.paintTiles(NGRegion.java:1975)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderBackgroundRectangle(NGRegion.java:967)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderAsRectangle(NGRegion.java:751)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:572)
+01-21 11:58:32.981: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:32.982: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:32.983: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.005: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.005: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.005: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.005: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.005: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderForClip(NGNode.java:2308)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderRectClip(NGNode.java:2202)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderClip(NGNode.java:2228)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2061)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.006: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.007: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.007: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.007: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.008: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.008: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.008: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.008: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.008: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.009: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.009: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.009: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.009: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.009: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.010: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.010: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.010: W/System.err(1150): 	at com.sun.javafx.tk.quantum.ViewPainter.doPaint(ViewPainter.java:474)
+01-21 11:58:33.010: W/System.err(1150): 	at com.sun.javafx.tk.quantum.ViewPainter.paintImpl(ViewPainter.java:327)
+01-21 11:58:33.010: W/System.err(1150): 	at com.sun.javafx.tk.quantum.PresentingPainter.run(PresentingPainter.java:99)
+01-21 11:58:33.010: W/System.err(1150): 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-21 11:58:33.011: W/System.err(1150): 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+01-21 11:58:33.011: W/System.err(1150): 	at com.sun.javafx.tk.RenderJob.run(RenderJob.java:58)
+01-21 11:58:33.011: W/System.err(1150): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-21 11:58:33.011: W/System.err(1150): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-21 11:58:33.012: W/System.err(1150): 	at com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:125)
+01-21 11:58:33.012: W/System.err(1150): 	at java.lang.Thread.run(Thread.java:818)
+01-21 11:58:33.181: W/System.err(1150): java.lang.UnsupportedOperationException: Pixel format BYTE_BGRA_PRE not supported on this device
+01-21 11:58:33.188: W/System.err(1150): 	at com.sun.prism.es2.ES2Texture.create(ES2Texture.java:102)
+01-21 11:58:33.188: W/System.err(1150): 	at com.sun.prism.es2.ES2ResourceFactory.createTexture(ES2ResourceFactory.java:132)
+01-21 11:58:33.188: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.createTexture(BaseResourceFactory.java:231)
+01-21 11:58:33.188: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.getCachedTexture(BaseResourceFactory.java:207)
+01-21 11:58:33.188: W/System.err(1150): 	at com.sun.prism.impl.BaseResourceFactory.getCachedTexture(BaseResourceFactory.java:141)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.paintTiles(NGRegion.java:1975)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderBackgroundRectangle(NGRegion.java:967)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderAsRectangle(NGRegion.java:751)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:572)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.189: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.190: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.191: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.191: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.191: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.191: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.192: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.217: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.217: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderForClip(NGNode.java:2308)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderRectClip(NGNode.java:2202)
+01-21 11:58:33.218: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.renderClip(NGNode.java:2228)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2061)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.219: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.220: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.221: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.221: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.221: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGGroup.renderContent(NGGroup.java:235)
+01-21 11:58:33.221: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGRegion.renderContent(NGRegion.java:576)
+01-21 11:58:33.221: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.doRender(NGNode.java:2067)
+01-21 11:58:33.222: W/System.err(1150): 	at com.sun.javafx.sg.prism.NGNode.render(NGNode.java:1959)
+01-21 11:58:33.222: W/System.err(1150): 	at com.sun.javafx.tk.quantum.ViewPainter.doPaint(ViewPainter.java:474)
+01-21 11:58:33.222: W/System.err(1150): 	at com.sun.javafx.tk.quantum.ViewPainter.paintImpl(ViewPainter.java:327)
+01-21 11:58:33.222: W/System.err(1150): 	at com.sun.javafx.tk.quantum.PresentingPainter.run(PresentingPainter.java:99)
+01-21 11:58:33.222: W/System.err(1150): 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:422)
+01-21 11:58:33.222: W/System.err(1150): 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:279)
+01-21 11:58:33.222: W/System.err(1150): 	at com.sun.javafx.tk.RenderJob.run(RenderJob.java:58)
+01-21 11:58:33.223: W/System.err(1150): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+01-21 11:58:33.223: W/System.err(1150): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+01-21 11:58:33.223: W/System.err(1150): 	at com.sun.javafx.tk.quantum.QuantumRenderer$PipelineRunnable.run(QuantumRenderer.java:125)
+01-21 11:58:33.223: W/System.err(1150): 	at java.lang.Thread.run(Thread.java:818)
